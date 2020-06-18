@@ -1,4 +1,4 @@
-package com.springstudy.bright;
+package com.springstudy.bright.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
