@@ -6,7 +6,6 @@ import org.springframework.stereotype.Component;
 
 import spring.di.entity.Exam;
 
-@Component("console")
 public class InlineExamConsole implements ExamConsole {
 	@Autowired
 	//@Qualifier("exam2")
